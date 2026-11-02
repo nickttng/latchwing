@@ -1,10 +1,10 @@
 # latchwing
 
-A small, low-cost device that records when a fridge or cabinet door opens and closes.
+A sensor data capture - small, low-cost device that records when a 24/7 community fridge or cabinet door opens and closes.
 
 ## Context
 
-Community pantries run on volunteers and shared goodwill, but it's hard to know how often the fridge and cabinets are used, or when. Latchwing aims to capture simple open/close events so the team can see usage patterns, plan restocking, and make the case for support, without cameras or tracking people.
+Community pantries run on volunteers and shared goodwill, but it's hard to know how often the fridge and cabinets are used, or when. Latchwing is a DIY project aiming to capture simple open/close events so the team can see usage patterns, plan restocking, and make the case for support, without cameras or tracking people.
 
 Status: early idea. Hardware, parts, and plan to follow.
 

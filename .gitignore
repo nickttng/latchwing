@@ -1,0 +1,5 @@
+# Never commit keys or device logins (see docs/decisions/0006)
+*.key
+*.pem
+secrets/
+.env
